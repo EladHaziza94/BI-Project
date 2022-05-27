@@ -8,3 +8,7 @@ Elad Haziza
 Tomer Ben Yehuda
 <br>
 Idan Cohen
+<br><br>
+Notes:
+<br>
+The STTM file contains the "colum mapping" and also the "STTM Schema"
